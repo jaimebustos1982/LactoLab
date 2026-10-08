@@ -1,6 +1,6 @@
 // LactoLab · service worker
 // Al publicar una versión nueva de index.html, cambia CACHE_NAME (por ejemplo, de -L2 a -L3) y VERSION en index.html.
-const CACHE_NAME = "lactolab-2026.10.07-L2";
+const CACHE_NAME = "lactolab-2026.10.07-L3";
 const CORE = ["./", "index.html", "manifest.json", "icon-192.png", "icon-512.png"];
 const CDN = [
   "https://cdnjs.cloudflare.com/ajax/libs/three.js/r128/three.min.js",
